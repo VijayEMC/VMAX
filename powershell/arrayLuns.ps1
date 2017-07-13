@@ -1,5 +1,5 @@
 ﻿
-# check for correct number of arguments
+# check -for correct number of arguments
 if ($args.Count -ne 3)
 {
     Write-Output "Please input the URI, Username and Password"
